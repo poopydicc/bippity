@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<font color="red">
+<head>
+    <title>my third webpage</title>  <!--this is a comment made about the title to test the comment function-->
+ </head>
+   <body>
+     <h1>welcome to my webpage</h1>
+     <br>
+     <p>this is the third webpage that i have used html to code</p>
+     <p>here is a ordered list of three shows i like</p>
+   </font>
+   <font color="blue">
+   <ol>
+        <li>konosuba</li>
+        <li>chainsaw man</li>
+     <li>and demon slayer</li>
+   </ol>
+    </font>
+     <p>and here is a picture of shrek because its funny</p>
+     <figure>
+     <img src = "https://c8.alamy.com/comp/F6MNCF/release-date-may-21-2010-movie-title-shrek-forever-after-studio-dreamworks-F6MNCF.jpg" width="50%" alt="dumbass shrek photo" />
+     <figcaption>relative image size</figcaption>
+     </figure>
+     <a href=https://www.youtube.com/watch?v=PsLVTMCQRa0>get out of mah swamp</a>
+     <div>
+     <br>
+     <br>
+     <br>
+     <button type="button" onclick="alert('fuck you and ligma balls. also you better not fucking touch the button below this one or ill shit on you!')">Dont Click Me Asshole!</button>
+  </div>
+  <br>
+  <br>
+  <div>
+
+
+
+    <button type="button" onclick="alert('I bet u think youre funny, you little fucking shit!')">Dont do it, im warning you!</button>
+</div>
+</body>
+</html>
